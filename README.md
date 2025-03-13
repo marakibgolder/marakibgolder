@@ -1,7 +1,9 @@
 # 💫 About Me:
 <br><br>🔥 A Visionary Software Engineer | AI Enthusiast | Cloud Innovator<br><br>🎓 Software Engineering Student at SEGI University, Malaysia, pursuing a dual degree with UCLan.<br><br>💻 Aspiring Software Engineer with expertise in .NET, Android Development, C#, Java, Python, and modern cloud technologies.<br><br>🌍 On a mission to redefine technology—currently applying as a transfer student to top universities in the USA & Germany.<br><br>⚡ Passionate about AI, Blockchain, and Full-Stack Development, continuously innovating and contributing to open-source projects.<br><br>📚 Active problem-solver, competitive programmer, and advocate for sustainable and scalable tech solutions.
 
-https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/db253a1e-ac65-4fd7-918f-701e0bc33e52)
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marakibgolder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/md-rakib-golder-a12134156/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mdrakibgoldar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marakibgolder@gmail.com) 
