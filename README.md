@@ -67,7 +67,7 @@
   </div>
 
    <div align="center">
-  <img src= ![coder3](https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e)  />
+  <img src="![coder3](https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e)" />
   </div>
   
 ![coder3](https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e)
