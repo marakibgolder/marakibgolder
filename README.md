@@ -52,12 +52,10 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdulrakib1993&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
 ###
 
-<div align="center">
-  <img src="![coder3](https://github.com/user-attachments/assets/4a74a197-437f-40ab-ad17-fa79715da321)"
-  />
-</div>
+
 
 ###
 
@@ -68,4 +66,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
   </div>
   
+![coder3](https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
