@@ -67,6 +67,6 @@
   </div>
 
    <div align="center">
-  <img src="https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e.gif" />
+  <img src="https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e" />
   </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
