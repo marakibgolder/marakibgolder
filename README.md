@@ -67,10 +67,6 @@
   </div>
 
    <div align="center">
-  <img src="![coder3](https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e)" />
+  <img src="https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e.gif" />
   </div>
-  
-![coder3](https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
