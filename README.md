@@ -27,6 +27,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=marakibgolder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marakibgolder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e" />
+</div>
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marakibgolder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -66,7 +70,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
   </div>
 
-   <div align="center">
-  <img src="https://github.com/user-attachments/assets/1e89ac30-9543-49c2-8871-47332c37b04e" />
-  </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
