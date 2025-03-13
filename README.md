@@ -1,8 +1,13 @@
+###
+
+<h1 align="center">Hi there, I'm MD Rakib Golder! 👋</h1>
+
+###
+
 # 💫 About Me:
 <br><br>🔥 A Visionary Software Engineer | AI Enthusiast | Cloud Innovator<br><br>🎓 Software Engineering Student at SEGI University, Malaysia, pursuing a dual degree with UCLan.<br><br>💻 Aspiring Software Engineer with expertise in .NET, Android Development, C#, Java, Python, and modern cloud technologies.<br><br>🌍 On a mission to redefine technology—currently applying as a transfer student to top universities in the USA & Germany.<br><br>⚡ Passionate about AI, Blockchain, and Full-Stack Development, continuously innovating and contributing to open-source projects.<br><br>📚 Active problem-solver, competitive programmer, and advocate for sustainable and scalable tech solutions.
 
-[![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/db253a1e-ac65-4fd7-918f-701e0bc33e52)](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4NTM3NzAsIm5iZiI6MTc0MTg1MzQ3MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEzVDA4MTExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5MDhjZjVjMDFjNjI2MDEwZDQ5OTE3NGY2NGFhM2VkZmY3MGM2MTI2YzUxMTBlZTZkMjkxNDU4YjY0Njg4YzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LLi50iEqoO5C15Lv8pexsgrk8D-VS_OieYrdUh2Ep9Y)
-
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/b8de9206-cddf-46c9-ad4f-de9423fc5493)
 
 
 ## 🌐 Socials:
@@ -26,5 +31,9 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MD RAKIB GOLDER) 
+
+  <div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+  </div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
