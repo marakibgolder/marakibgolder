@@ -5,7 +5,14 @@
 ###
 
 # 💫 About Me:
+
+###
+
+<p align="left">I'm MD Rakib Golder from Bangladesh, currently pursuing a BSc in Software Engineering at SEGI University, Malaysia with a dual degree from the University of Central Lancashire (UCLan).<br><br>🔭 I’m working as a Software Developer & Tech Enthusiast, building innovative solutions in .NET, Android, and AI.<br>📚 I'm currently learning Advanced Machine Learning, Cloud Computing (AWS), and Blockchain Development.<br>⚡ In my free time, I play eFootball Mobile like a pro, explore cybersecurity topics, and create content for my YouTube channel.</p>
+
+###
 <br><br>🔥 A Visionary Software Engineer | AI Enthusiast | Cloud Innovator<br><br>🎓 Software Engineering Student at SEGI University, Malaysia, pursuing a dual degree with UCLan.<br><br>💻 Aspiring Software Engineer with expertise in .NET, Android Development, C#, Java, Python, and modern cloud technologies.<br><br>🌍 On a mission to redefine technology—currently applying as a transfer student to top universities in the USA & Germany.<br><br>⚡ Passionate about AI, Blockchain, and Full-Stack Development, continuously innovating and contributing to open-source projects.<br><br>📚 Active problem-solver, competitive programmer, and advocate for sustainable and scalable tech solutions.
+
 
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/b8de9206-cddf-46c9-ad4f-de9423fc5493)
 
