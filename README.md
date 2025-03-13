@@ -49,11 +49,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/marakibgolder/count.svg?"  />
 </div>
-
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdulrakib1993&theme=dark" alt="Layout with last medium posts"  />
+</div>
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdulrakib1993&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdulrakib1993&theme=dark" alt="Layout with last medium posts(https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)"  />
 </div>
 
 ###
