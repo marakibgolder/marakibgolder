@@ -33,6 +33,37 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=marakibgolder&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/marakibgolder/marakibgolder/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/marakibgolder/marakibgolder/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marakibgolder/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdulrakib1993&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MD RAKIB GOLDER) 
 
